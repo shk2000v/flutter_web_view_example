@@ -1,6 +1,8 @@
-# web_view
+# web_view_example
 
-A new Flutter project.
+- 코드팩토리 강의 섹션8의 웹뷰 강의 내용입니다.
+- web_view는 version ^4.4.2을 사용하였습니다.
+- Target된 Uri 는 lib/screen/home_screen.dart에 homrUrl 입니다.
 
 ## Getting Started
 
